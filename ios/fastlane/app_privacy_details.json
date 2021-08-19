@@ -7,5 +7,14 @@
         "protections": [
             "dwedwe"
         ]
+    },
+    {
+        "category": "PAYMENT_INFORMATION",
+        "purposes": [
+            "dwdwe"
+        ],
+        "protections": [
+            "dwedwe"
+        ]
     }
 ]
