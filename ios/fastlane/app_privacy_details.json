@@ -2,8 +2,7 @@
     {
         "category": "HEALTH",
         "purposes": [
-            "123",
-            "dewdwe"
+            "THIRD_PARTY_ADVERTISING"
         ],
         "protections": [
             "dwedwe",
@@ -12,9 +11,7 @@
     },
     {
         "category": "PAYMENT_INFORMATION",
-        "purposes": [
-            "dwdwe"
-        ],
+        "purposes": [],
         "protections": [
             "dwedwe"
         ]
