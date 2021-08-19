@@ -5,7 +5,6 @@
             "THIRD_PARTY_ADVERTISING",
             "DEVELOPERS_ADVERTISING",
             "PRODUCT_PERSONALIZATION",
-            "APP_FUNCTIONALITY",
             "OTHER_PURPOSES"
         ],
         "protections": [
