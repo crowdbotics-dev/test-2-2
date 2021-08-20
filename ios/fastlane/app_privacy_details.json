@@ -23,5 +23,14 @@
             "DATA_LINKED_TO_YOU",
             "DATA_USED_TO_TRACK_YOU"
         ]
+    },
+    {
+        "category": "CONTACTS",
+        "purposes": [
+            "ANALYTICS"
+        ],
+        "protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
     }
 ]
