@@ -2,7 +2,7 @@
     {
         "category": "NAME",
         "purposes": [
-            "ANALYTICS"
+            "PRODUCT_PERSONALIZATION"
         ],
         "protections": [
             "DATA_LINKED_TO_YOU",
